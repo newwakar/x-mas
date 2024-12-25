@@ -42,3 +42,9 @@ section {
 #slide-1 .trunk {bottom: 87px; left: 167px; top: auto;}
 #slide-1 .pot {bottom: 20px; left: 130px; top: auto;}
 #slide-1 .shadow {bottom: 0; left: 24px; top: auto;}
+
+.playwrite-hr-lijeva-guides-regular {
+  font-family: "Playwrite HR Lijeva Guides", serif;
+  font-weight: 400;
+  font-style: normal;
+}
