@@ -1,0 +1,44 @@
+#info {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background-color: rgba(0,0,0,0.5);
+  color: #fff;
+  padding: 20px;
+  z-index: 9999;
+}
+section {
+  height: 5000px;
+}
+#slide-1 .bcg {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://ihatetomatoes.net/merry-christmallax/img/bcg_paper.png');
+  background-repeat: repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+#scrollBaby {
+  width: 184px;
+  height: 286px;
+  background: url('https://ihatetomatoes.net/merry-christmallax/img/img_get-scrolling.png') no-repeat top left;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-left: -92px;
+}
+#slide-1 #tree {
+  width: 380px; height: 550px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin: -275px 0 0 -190px;
+}
+#slide-1 .item {position: absolute; top: 0; left: 0;}
+#slide-1 .tree1 {bottom: 426px; left: 100px; top: auto;}
+#slide-1 .tree2 {bottom: 309px; left: 73px; top: auto;}
+#slide-1 .tree3 {bottom: 205px; left: 30px; top: auto;}
+#slide-1 .tree4 {bottom: 101px; left: 14px; top: auto;}
+#slide-1 .trunk {bottom: 87px; left: 167px; top: auto;}
+#slide-1 .pot {bottom: 20px; left: 130px; top: auto;}
+#slide-1 .shadow {bottom: 0; left: 24px; top: auto;}
